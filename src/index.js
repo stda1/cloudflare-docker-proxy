@@ -17,7 +17,7 @@ const routes = {
   "ecr.YCR.link": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.YCR.link": dockerHub,
 };
 
 function routeByHosts(host) {
